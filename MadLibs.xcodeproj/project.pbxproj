@@ -16,6 +16,8 @@
 		84E6A4852770B3F600F11F5E /* MadLibsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E6A4842770B3F600F11F5E /* MadLibsTests.swift */; };
 		84E6A48F2770B3F600F11F5E /* MadLibsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E6A48E2770B3F600F11F5E /* MadLibsUITests.swift */; };
 		84E6A4912770B3F600F11F5E /* MadLibsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E6A4902770B3F600F11F5E /* MadLibsUITestsLaunchTests.swift */; };
+		84E6A49E2770B7E100F11F5E /* FormViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E6A49D2770B7E100F11F5E /* FormViewController.swift */; };
+		84E6A4A02770B96F00F11F5E /* Info.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E6A49F2770B96F00F11F5E /* Info.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		84E6A48A2770B3F600F11F5E /* MadLibsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MadLibsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		84E6A48E2770B3F600F11F5E /* MadLibsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MadLibsUITests.swift; sourceTree = "<group>"; };
 		84E6A4902770B3F600F11F5E /* MadLibsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MadLibsUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		84E6A49D2770B7E100F11F5E /* FormViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormViewController.swift; sourceTree = "<group>"; };
+		84E6A49F2770B96F00F11F5E /* Info.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Info.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +110,8 @@
 				84E6A4762770B3F600F11F5E /* Assets.xcassets */,
 				84E6A4782770B3F600F11F5E /* LaunchScreen.storyboard */,
 				84E6A47B2770B3F600F11F5E /* Info.plist */,
+				84E6A49D2770B7E100F11F5E /* FormViewController.swift */,
+				84E6A49F2770B96F00F11F5E /* Info.swift */,
 			);
 			path = MadLibs;
 			sourceTree = "<group>";
@@ -260,6 +266,8 @@
 			files = (
 				84E6A4722770B3F400F11F5E /* ViewController.swift in Sources */,
 				84E6A46E2770B3F400F11F5E /* AppDelegate.swift in Sources */,
+				84E6A49E2770B7E100F11F5E /* FormViewController.swift in Sources */,
+				84E6A4A02770B96F00F11F5E /* Info.swift in Sources */,
 				84E6A4702770B3F400F11F5E /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
